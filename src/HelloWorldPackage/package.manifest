@@ -1,0 +1,16 @@
+﻿{
+  "propertyEditors": [
+    {
+      "name": "Hello World Package",
+      "alias": "HelloWorldPackage",
+      "version": "10.0.0",
+      "allowPackageTelemetry": false,
+      "icon": "icon-info",
+      "editor": {
+        "view": "~/App_Plugins/HelloWorldPackage/index.html",
+        "hideLabel": true,
+        "valueType": "JSON"
+      },
+    }
+  ],
+}
